@@ -58,14 +58,14 @@ button {
   width: 100%;
 }
 
-/*#app {
+#app {
   transform: scale(2);
   position: relative;
   z-index: 10;
   background: #ffffff;
 }
 
-#alert {
+/*#alert {
   left: 0;
   width: 100%;
   height: 100%;
