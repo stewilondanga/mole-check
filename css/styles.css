@@ -50,11 +50,11 @@ input {
   justify-content: space-between;
 }
 
-/*#stop {
+#stop {
   display: none;
 }
 
-button {
+/*button {
   width: 100%;
 }
 
