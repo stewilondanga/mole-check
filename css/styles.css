@@ -98,12 +98,12 @@ button {
   font-size: 3rem;
 }
 
-/*#alert button {
+#alert button {
   width: 50%;
   margin-top: 25px;
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
