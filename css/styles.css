@@ -45,12 +45,12 @@ input {
   cursor: pointer;
 }
 
-/*.overlay {
+.overlay {
   display: flex;
   justify-content: space-between;
 }
 
-#stop {
+/*#stop {
   display: none;
 }
 
