@@ -41,11 +41,11 @@ table {
   /* transform-origin:center top;	transform:scale(2) translate(10px); */
 }
 
-/*input {
+input {
   cursor: pointer;
 }
 
-.overlay {
+/*.overlay {
   display: flex;
   justify-content: space-between;
 }
