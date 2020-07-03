@@ -54,11 +54,11 @@ input {
   display: none;
 }
 
-/*button {
+button {
   width: 100%;
 }
 
-#app {
+/*#app {
   transform: scale(2);
   position: relative;
   z-index: 10;
