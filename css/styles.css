@@ -28,11 +28,11 @@ td.miss {
   background-color: red;
 }
 
-/*td.get {
+td.get {
   background-color: green;
 }
 
-td {
+/*td {
   transition: background 0.25s;
   border-radius: 2px;
 }
