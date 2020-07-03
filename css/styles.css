@@ -32,13 +32,12 @@ td.get {
   background-color: green;
 }
 
-/*td {
+td {
   transition: background 0.25s;
   border-radius: 2px;
 }
 
-
-table {
+/*table {
   /* transform-origin:center top;	transform:scale(2) translate(10px); */
 /*}
 
